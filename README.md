@@ -16,7 +16,7 @@ Se ao invés de enviar um link de cardápio digital, enviasse um QR Code? Este p
 <a id="#ancora2"></a>
 ### Objetivo
 > Projeto desenvolvido na Maratona Explorer 3 Rocketseat. A proposta é elaborar um cardápio Web usando as tecnologias HTML, CSS e QR Code.
-O Objetivo é explorar as tecnologias HTML e CSS para a criação de um cardápio que possa ser compartilhado, tanto por link da página, Web disponibilizada através do GitHub, quanto pelo código QR Code criado a partir do site [QR Code Generator](https://www.qr-code-generator.com/activate/?utm_source=google_c&utm_medium=cpc&utm_campaign=&utm_content=qr_code_generator_exact&utm_term=%2Bqr%20%2Bcode%20%2Bgenerator_b&gclid=Cj0KCQjw94WZBhDtARIsAKxWG-_ibts1ESFT4O1nppqcUPKceTHwuGyUNhLxfDr3dl1fE_nE_BCqmQkaAp03EALw_wcB).
+O Objetivo é explorar as tecnologias HTML e CSS para a criação de um cardápio que possa ser compartilhado, tanto por link da página, Web disponibilizada através do GitHub-pages, quanto pelo código QR Code criado a partir do site [QR Code Generator](https://www.qr-code-generator.com/activate/?utm_source=google_c&utm_medium=cpc&utm_campaign=&utm_content=qr_code_generator_exact&utm_term=%2Bqr%20%2Bcode%20%2Bgenerator_b&gclid=Cj0KCQjw94WZBhDtARIsAKxWG-_ibts1ESFT4O1nppqcUPKceTHwuGyUNhLxfDr3dl1fE_nE_BCqmQkaAp03EALw_wcB).
 
 Link da página RocketCoffe - [LowDelícias](https://rainbow-crumble-05f518.netlify.app/)
 
